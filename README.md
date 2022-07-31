@@ -1,11 +1,11 @@
-	- Autor deve escrever pelo menos um artigo a cada 45 dias.
-    - Revisor deve revisar pelo menos um artigo a cada 45 dias.
-    - Caso a pessoa nao atenda o prazo, uma vez, tomara uma adivertencia.
-    - Na segunda adivertencia, o participante sera removido do grupo.
-    - As adivertencias serao zeradas todo dia 01/01(anualmente).
-    - O controle das tarefas sera feita pelo github, seguindo o fluxo explicado.
-    - Autores sazonais serao permitidos.
-    - Os artigos devem seguir o template a seguir:
+- Autor deve escrever pelo menos um artigo a cada 45 dias.
+- Revisor deve revisar pelo menos um artigo a cada 45 dias.
+- Caso a pessoa nao atenda o prazo, uma vez, tomara uma adivertencia.
+- Na segunda adivertencia, o participante sera removido do grupo.
+- As adivertencias serao zeradas todo dia 01/01(anualmente).
+- O controle das tarefas sera feita pelo github, seguindo o fluxo explicado.
+- Autores sazonais serao permitidos.
+- Os artigos devem seguir o template a seguir:
         1 - Referenciar artigos utilizados(quando necessario).
         2 - Assinar com seu nome e cargo.
         (artigo de exemplo sera liberado)
